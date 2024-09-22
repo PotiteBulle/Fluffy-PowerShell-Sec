@@ -1,0 +1,2 @@
+# Installation de toutes les mise à jours disponibles pour Windows , puis accepte automatiquement les termes d'utilisation & redémarre l'ordinateur si nécessaire
+Install-WindowsUpdate -AcceptAll -AutoReboot
